@@ -1,0 +1,1 @@
+It is a Howarts house selection game using solidity and javascript where each account will be allowed to play the game of choosing the house once and a nft will be minted to their account related to the house they got .
